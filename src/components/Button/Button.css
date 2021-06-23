@@ -1,0 +1,16 @@
+.button-container {
+    border: 1px solid #000000;
+    width: fit-content;
+    border-radius: 3px;
+    margin: 2px;
+    box-shadow: 1px 1px 1px 1px #888888;
+}
+
+.button-text {
+    font-size: 12px;
+    margin: 2px;
+}
+
+.select {
+    background-color: aquamarine;
+}
